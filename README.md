@@ -1,2 +1,2 @@
 # Data-Warehouse-Coursework-Syracuse
-Coursework done for IST 722, Data Warehouse, at Syracuse University.
+Coursework done for IST681 Metadata at Syracuse University.
