@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cdwalite xmlns="http://www.getty.edu/CDWA/CDWALite"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.getty.edu/CDWA/CDWALite file:/C:/Users/antho/OneDrive/Documents/Syracuse/681%20-%20Metadata/Assignment%202/CDWALite-xsd-public-v1-1.xsd">
+    <descriptiveMetadata>
+        <objectWorkTypeWrap>
+            <objectWorkType>painting</objectWorkType>
+        </objectWorkTypeWrap>
+        <titleWrap>
+            <titleSet>
+                <title>The Path through the Irises</title>
+                <sourceTitle/>
+            </titleSet>
+        </titleWrap>
+        <displayCreator>Claude Monet (French, Paris 1840-1926 Giverny</displayCreator>
+        <indexingCreatorWrap>
+            <indexingCreatorSet>
+                <nameCreatorSet>
+                    <nameCreator>Monet, Claude</nameCreator>
+                    <sourceNameCreator/>
+                </nameCreatorSet>
+                <nationalityCreator>French</nationalityCreator>
+                <vitalDatesCreator >1840-1926</vitalDatesCreator>
+                <genderCreator>Male</genderCreator>
+                <roleCreator>painter</roleCreator>
+                <attributionQualifierCreator>attributed to</attributionQualifierCreator>
+                <extentCreator/>
+            </indexingCreatorSet>
+        </indexingCreatorWrap>
+        <displayMeasurements>200.3 x 180 cm. (78 7/8 x 70 7/8 in.)</displayMeasurements>
+        <indexingMeasurementsWrap>
+            <indexingMeasurementsSet>
+                <measurementsSet xmlns:cd="http://www.getty.edu/CDWA/CDWALite" cd:value=""/>
+                <extentMeasurements/>
+                <qualifierMeasurements/>
+                <formatMeasurements/>
+                <shapeMeasurements>rectangular</shapeMeasurements>
+                <scaleMeasurements/>
+            </indexingMeasurementsSet>
+        </indexingMeasurementsWrap>
+        <displayMaterialsTech>oil on canvas</displayMaterialsTech>
+        <indexingMaterialsTechWrap>
+            <indexingMaterialsTechSet>
+                <termMaterialsTech>oil paint</termMaterialsTech>
+                <termMaterialsTech>canvas</termMaterialsTech>
+                <extentMaterialsTech/>
+                <sourceMaterialsTech/>
+            </indexingMaterialsTechSet>
+        </indexingMaterialsTechWrap>
+        <displayStateEditionWrap>
+            <displayState/>
+            <displayEdition/>
+            <sourceStateEdition/>
+        </displayStateEditionWrap>
+        <styleWrap>
+            <style>impressionist</style>
+        </styleWrap>
+        <cultureWrap>
+            <culture>French</culture>
+        </cultureWrap>
+        <displayCreationDate>1914-17</displayCreationDate>
+        <indexingDatesWrap>
+            <indexingDatesSet>
+                <dateQualifier>execution</dateQualifier>
+                <earliestDate>1914</earliestDate>
+                <latestDate>1917</latestDate>
+            </indexingDatesSet>
+        </indexingDatesWrap>
+        <locationWrap>
+            <locationSet>
+                <locationName>The Met Fifth Avenue, Gallery 822</locationName>
+                <workID>2001.202.6</workID>
+            </locationSet>
+        </locationWrap>
+        <indexingSubjectWrap>
+            <indexingSubjectSet>
+                <extentSubject/>
+                <subjectTerm>grass</subjectTerm>
+                <subjectTerm>irises</subjectTerm>
+            </indexingSubjectSet>
+        </indexingSubjectWrap>
+        <classWrap>
+            <classification>paintings</classification>
+        </classWrap>
+        <descriptiveNoteWrap>
+            <descriptiveNoteSet>
+                <descriptiveNote>Irises, among Monet's favorite flowers, lined the pathways leading up to the house and Japanese bridge on the artist's property at Giverny. This bird's-eye view of a garden path belongs to a series of monumental works painted during the First World War that capture the vital essence of these flowers with intensity and breadth of vision. Late in life, as his eyesight faltered, he dispensed with subtlety and "took in the motif in large masses," waiting "until the idea took shape, until the arrangement and composition inscribed themselves on the brain."</descriptiveNote>
+                <sourceDescriptiveNote/>
+            </descriptiveNoteSet>
+        </descriptiveNoteWrap>
+        <inscriptionsWrap>
+            <inscriptions>stamped lower right: Claude Monet</inscriptions>
+        </inscriptionsWrap>
+        <relatedWorksWrap>
+            <relatedWorkSet>
+                <linkRelatedWork/>
+                <relatedWorkRelType>rendering of</relatedWorkRelType>
+                <labelRelatedWork>Monet, Claude (French, ca. 1840-1926); The Path through the Irises, 1914-17; oil on canvas</labelRelatedWork>
+                <locRelatedWork/>
+            </relatedWorkSet>
+        </relatedWorksWrap>
+    </descriptiveMetadata>
+    <administrativeMetadata>
+        <rightsWork>This work may not be lent, by terms of its acquisition by The Metropolitan Museum of Art. </rightsWork>
+        <recordWrap>
+            <recordID>2001.202.6</recordID>
+            <recordType>accession</recordType>
+            <recordSource>The Metropolitan Museum of Art</recordSource>
+            <recordInfoWrap>
+                <recordInfoID/>
+                <recordInfoLink/>
+                <recordRelID/>
+                <recordMetadataLoc/>
+                <recordMetadataDate/>
+            </recordInfoWrap>
+        </recordWrap>
+        <resourceWrap>
+            <resourceSet>
+                <linkResource>https://www.metmuseum.org/art/collection/search/110002463</linkResource>
+                <resourceID/>
+                <resourceRelType/>
+                <resourceType>painting</resourceType>
+                <rightsResource>The Metropolitan Museum of Art, Manhattan</rightsResource>
+                <resourceViewDescription/>
+                <resourceViewType/>
+                <resourceViewSubjectTerm/>
+                <resourceViewDate/>
+                <resourceSource>the artist's son, Michel Monet, Sorel-Moussel (until the late 1950s; sold to Granoff); [Katia Granoff, Paris, late 1950s–1972; sold to Wildenstein]; [Wildenstein, Paris, 1972–74, sold on May 17 to Annenberg]; Walter H. and Leonore Annenberg, Rancho Mirage, Calif. (1974–2001; jointly with The Met, 2001–his d. 2002) </resourceSource>
+                <linkRelatedResource>
+                    <relatedResourceRelType/>
+                    <labelRelatedResource/>
+                </linkRelatedResource>
+                <resourceMetadataLoc/>
+            </resourceSet>
+        </resourceWrap>
+    </administrativeMetadata>
+</cdwalite>
